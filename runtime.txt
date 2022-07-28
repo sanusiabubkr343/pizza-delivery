@@ -1,1 +1,2 @@
-pyhton-3.8.10
+# Runtime.txt
+python-3.7.2
